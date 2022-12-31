@@ -9,7 +9,7 @@
   
  📫 I can be reached at luke.bodora@gmail.com
   
- 🏁 My goal is to become a web developer.
+ 🏁 My goal is to become a web developer, preferably frontend but since life is like a box of chocolate you never know.
   
 
 - 
